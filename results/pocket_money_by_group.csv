@@ -1,0 +1,19 @@
+grouping,group,count,mean,median,sd,geo_mean
+gender,Female,88,891.0,500.0,1345.8,415.0
+gender,Male,105,1257.9,500.0,1675.5,617.1
+origin,Rural,143,908.5,500.0,1043.3,485.0
+origin,Urban,50,1611.4,625.0,2403.7,611.3
+living,In hostel,46,998.9,500.0,972.7,681.4
+living,In room,52,1664.0,1000.0,1998.3,888.2
+living,With Parents,85,752.2,250.0,1387.4,304.7
+living,With Relatives,10,1407.0,1050.0,1483.6,722.7
+income_group,10-30k,104,1001.8,500.0,1347.7,501.1
+income_group,30-50k,51,861.4,500.0,1180.6,424.1
+income_group,50-70k,25,1306.8,500.0,2411.5,482.6
+income_group,70k+,13,2284.6,2000.0,1742.5,1555.6
+stream,Arts,11,436.4,200.0,593.3,216.9
+stream,Commerce,33,802.1,500.0,1035.9,420.9
+stream,Science,149,1202.8,500.0,1661.9,574.0
+recv_mode,Both,83,1206.9,1000.0,1442.3,731.3
+recv_mode,Cash,85,897.6,500.0,1473.8,347.9
+recv_mode,Online,25,1360.8,500.0,2008.4,610.1

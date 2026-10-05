@@ -1,0 +1,29 @@
+var1,var2,spearman_rho,p
+Family size,Earners,0.2931,0.0
+Male,Urban,-0.2482,0.0004
+Pocket money,% saved,-0.2039,0.0045
+Family income,Urban,0.188,0.0072
+Family size,Urban,-0.1667,0.0175
+Family income,Male,-0.1576,0.0247
+% saved,Urban,-0.149,0.0339
+Pocket money,Male,0.1408,0.0508
+% saved,Invests,0.1373,0.0507
+Family income,Earners,0.1331,0.0584
+Earners,Urban,0.1228,0.081
+Invests,Male,0.1201,0.0878
+Family income,Invests,0.1178,0.0942
+Pocket money,Earners,0.1069,0.1389
+Family size,Male,-0.1023,0.1465
+% saved,Male,-0.0969,0.169
+Pocket money,Family income,0.0758,0.2945
+Invests,Urban,-0.066,0.3496
+Pocket money,Urban,0.0645,0.3725
+Earners,Invests,0.0619,0.3807
+Earners,% saved,-0.0599,0.3956
+Earners,Male,-0.0513,0.4676
+Family size,Invests,0.0507,0.4724
+Pocket money,Family size,0.0489,0.4992
+Family income,% saved,-0.0326,0.6445
+Family income,Family size,-0.0304,0.6666
+Pocket money,Invests,-0.0194,0.789
+Family size,% saved,0.0189,0.7886

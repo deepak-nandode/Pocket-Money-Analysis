@@ -1,0 +1,13 @@
+id,test,description,p_raw,significant_raw_0.05
+T1,Welch t-test,ln(pocket money): Male vs Female,0.0364,True
+T2,Welch t-test,ln(pocket money): Urban vs Rural,0.3294,False
+A1,One-way ANOVA,ln(pocket money) by living arrangement (4 groups),0.0,True
+A2,One-way ANOVA,ln(pocket money) by family income band (4 groups),0.0139,True
+A3,One-way ANOVA,ln(pocket money) by stream (3 groups),0.0363,True
+M1,Mann-Whitney U,Share of pocket money saved: away from family vs with family,0.67,False
+C1,Chi-square,Invests savings x Gender,0.087,False
+C2,Chi-square,Invests savings x Home area (rural/urban),0.3472,False
+C3,Chi-square,Invests savings x Family income (3 bands),0.0662,False
+C4,Chi-square,Needs same amount monthly x Living (family/away),0.6894,False
+C5,Chi-square,Spends on personal items x Gender,0.5349,False
+C6,Chi-square,Mode of receiving pocket money x Home area,0.1708,False

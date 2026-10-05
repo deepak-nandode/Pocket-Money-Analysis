@@ -1,0 +1,34 @@
+variable,level,n,percent
+Gender,Male,113,55.7
+Gender,Female,90,44.3
+Age,18,114,56.2
+Age,17,44,21.7
+Age,19,38,18.7
+Age,20+,7,3.4
+Stream,Science,152,74.9
+Stream,Commerce,38,18.7
+Stream,Arts,13,6.4
+Home area,Rural,149,73.4
+Home area,Urban,54,26.6
+Living arrangement,With Parents,92,45.3
+Living arrangement,In room,52,25.6
+Living arrangement,In hostel,47,23.2
+Living arrangement,With Relatives,12,5.9
+Family monthly income (Rs),10-30k,113,55.7
+Family monthly income (Rs),30-50k,52,25.6
+Family monthly income (Rs),50-70k,25,12.3
+Family monthly income (Rs),70k+,13,6.4
+How pocket money is received,Cash,93,45.8
+How pocket money is received,Both,84,41.4
+How pocket money is received,Online,26,12.8
+Invests savings,No,148,72.9
+Invests savings,Yes,55,27.1
+Needs the same amount every month,Yes,145,71.4
+Needs the same amount every month,No,58,28.6
+Spends on academic items,Yes,176,86.7
+Spends on personal items,Yes,54,26.6
+Lends to friends,Yes,16,7.9
+Other spending,Yes,19,9.4
+Uses PhonePe,Yes,129,63.5
+Uses GPay,Yes,69,34.0
+Uses Paytm,Yes,34,16.7

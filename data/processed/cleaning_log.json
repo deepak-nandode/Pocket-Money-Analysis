@@ -1,0 +1,25 @@
+{
+  "rows_raw": 203,
+  "rows_identical_in_answers": 2,
+  "rows_with_repeated_timestamp": 0,
+  "takes_pm_unique_values": [
+    "Yes"
+  ],
+  "pm_received_ranges_to_midpoint": 14,
+  "pm_received_unusable_text_or_blank": 10,
+  "pm_iqr_upper_fence": 3450.0,
+  "pm_outliers_flagged_not_removed": 13,
+  "spent_plus_saved_within_10pts_of_100": 0.773,
+  "columns_dropped_for_privacy": [
+    "department",
+    "father_occ",
+    "mother_occ"
+  ],
+  "rows_clean": 203,
+  "missing_by_column": {
+    "pm_received_raw": 6,
+    "pm_received_rs": 10,
+    "log_pm": 10,
+    "invest_where": 149
+  }
+}
